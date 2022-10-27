@@ -3,6 +3,10 @@
 
 THIS PROGRAM WILL ALLOW THE USER TO "SPIN" THE MAGIC 8 BALL AND GET A RANDOM ANSWER EVERYTIME,  RUNNING THROUGH A WEB API
 
+PEER REVIEW BY : Fredddy Aguilar - The program takes the 8 ball mini challenge and converts it into API format.
+ The program takes the randomized function and gives back the output of a randomized answer on Postman just like a real magic 8 ball!
+ Program works as intended and the code is short and sweet! Good job!
+
 This program can be ran easily , setting up web API's is fun! First, after obtaining the repository link for this program you will find "Magic8BallController" in the explorer on the left. This is the only controller that is relevant for the project. It contains comments in the top regarding the project, although these comments are useless to the user
 
 In order to use "Magic8BallController" correctly , first you must debug your system , debugging your system is possible by press the "fn" key at the same time as the "f5" key , although this does not always work the first time
